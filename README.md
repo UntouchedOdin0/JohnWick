@@ -1,7 +1,7 @@
 # JohnWick
 A Discord bot that posts the contents of the Fortnite shop.
 
-## Offical Bot
+## Official Bot
 If you just want the bot on your server, use the link below.
 
 https://discordapp.com/oauth2/authorize?client_id=436684273131716611&scope=bot
